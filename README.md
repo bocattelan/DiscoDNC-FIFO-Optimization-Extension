@@ -1,6 +1,6 @@
 # [DiscoDNC](https://github.com/NetCal) FIFO Optimization Extension
 
-This is an extension to the DiscoDNC Tool, which allows researchers to compute tight delay bounds using the ideas from [FIFO](https://ieeexplore.ieee.org/document/6861458).
+This is an extension to the DiscoDNC Tool, which allows researchers to compute tight delay bounds using the ideas from [FIFO](https://ieeexplore.ieee.org/document/6861458). It makes use of the CPLEX java API for solving the problem.
 
 ## Installation
 
